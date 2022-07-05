@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="stylesheet" href="CSS/main.css" />
+      <!--   <link rel="stylesheet" href="js/main.js" />-->
+      <title>B4</title>
+   </head>
+
+   <body>
+      <video id="audio" width="50%" controls>
+         <source src="audio/4.mp3" type="audio/mp3" />
+         <source src="audio/4.ogg" type="audio/ogg" />
+      </video>
+      <fieldset id="topn1">
+         <div class="topnav">
+            <a id="mainpage" class="active" href="index.html">Home</a>
+            <a id="subpages2" href="text1.html">Part 1.</a>
+            <a id="subpages2" href="text2.html">Part 2.</a>
+            <a id="subpages2" href="text3.html">Part 3.</a>
+            <a id="subpages2" href="">Part 4.</a>
+            <a id="subpages2" href="text5.html">Part 5.</a>
+            <a id="subpages2" href="text6.html">Part 6.</a>
+         </div>
+      </fieldset>
+
+      <button id="button1" onclick="Set13_VideoRate()" type="button">
+         Speed x1.3
+      </button>
+      <button id="button2" onclick="Set15_VideoRate()" type="button">
+         Speed x1.5
+      </button>
+      <button id="button3" onclick="My_VideoRate()" type="button">
+         Normal Speed
+      </button>
+
+      <script>
+         var v = document.getElementById('audio');
+
+         function Set13_VideoRate() {
+            v.playbackRate = 1.3;
+         }
+         function Set15_VideoRate() {
+            v.playbackRate = 1.5;
+         }
+         function My_VideoRate() {
+            v.playbackRate = 1;
+         }
+      </script>
+
+      <div>
+         <br /><br /><br />
+         <p>
+            <img id="responsive" src="picts/B4.jpg" alt="" />
+         </p>
+      </div>
+   </body>
+</html>

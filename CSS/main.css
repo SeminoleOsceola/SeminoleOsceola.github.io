@@ -1,0 +1,136 @@
+#mfst {
+   border-radius: 50px;
+   border-color: rgb(148, 176, 208);
+   text-align: center;
+   font-size: xx-large;
+   font-family: Arial, Helvetica, sans-serif;
+}
+#fst {
+   border-radius: 50px;
+   border-color: blue;
+   text-align: justify;
+   font-family: 'Times New Roman', Times, serif;
+}
+
+#fontSub {
+   font-weight: bold;
+   font-size: 20px;
+}
+#descr {
+   font-weight: bolder;
+   font-size: 20px;
+   color: blue;
+}
+#audio {
+   position: fixed;
+   height: 30px;
+   width: 42%;
+   margin-left: 500px;
+   margin-top: 0px;
+}
+#topn1 {
+   position: fixed;
+   font-size: large;
+   margin-left: 1px;
+   background-color: whitesmoke;
+   height: 10px;
+   border-radius: 50px;
+   border-radius: 50px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+#button1 {
+   position: fixed;
+   margin-top: 32px;
+   margin-left: 503px;
+   color: blue;
+   border-radius: 50px;
+   border: white;
+}
+#button2 {
+   position: fixed;
+   margin-top: 32px;
+   margin-left: 580px;
+   color: blue;
+   border-radius: 50px;
+   border: white;
+}
+#button3 {
+   position: fixed;
+   margin-top: 32px;
+   margin-left: 657px;
+   color: blue;
+   border-radius: 50px;
+   border: white;
+}
+
+#topn2 {
+   position: fixed;
+   margin-top: 130px;
+   font-size: large;
+}
+
+#subpages1 {
+   margin-left: 40px;
+}
+
+#subpages2 {
+   margin-left: 10px;
+}
+
+.container {
+   background-color: black;
+}
+
+#title {
+   color: navy;
+   text-align: center;
+   font-weight: bold;
+   font-size: 50px;
+}
+
+#writer {
+   color: red;
+   margin-bottom: 0mm;
+   text-align: center;
+   font-weight: bold;
+   font-size: 25px;
+}
+
+h1 {
+   text-align: center;
+}
+
+h3 {
+   text-align: center;
+   color: red;
+}
+
+#kek {
+   color: blue;
+   font-weight: bold;
+   font-size: larger;
+   margin-top: 20px;
+   margin-bottom: 0px;
+}
+
+#piros {
+   color: red;
+   font-size: larger;
+   margin-top: 0;
+}
+
+#writer {
+   margin-top: 0px;
+   margin-bottom: 50px;
+}
+
+#title {
+   margin-bottom: 0px;
+   margin-top: 50px;
+}
+
+#responsive {
+   width: 100%;
+   margin-top: 50px;
+}
