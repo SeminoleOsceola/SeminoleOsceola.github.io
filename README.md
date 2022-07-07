@@ -1,2 +1,2 @@
 # Osceola
-learning
+learning hard
