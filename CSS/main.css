@@ -1,3 +1,7 @@
+.div {
+   max-width: fit-content;
+}
+
 #mfst {
    border-radius: 50px;
    border-color: rgb(148, 176, 208);
