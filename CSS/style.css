@@ -19,10 +19,12 @@ td {
    border-color: rgb(15, 248, 7);
 }
 
-/* body {
+body {
    overflow-wrap: anywhere;
    text-align: center;
-} */
+   width: 98%;
+   height: auto;
+}
 .responsive {
    width: 100%;
    height: auto;
