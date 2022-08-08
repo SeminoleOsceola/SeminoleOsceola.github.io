@@ -13,10 +13,10 @@ td {
    border-color: rgb(15, 248, 7);
 }
 
-body {
+/* body {
    overflow-wrap: anywhere;
    text-align: center;
-}
+} */
 .responsive {
    width: 100%;
    height: auto;
