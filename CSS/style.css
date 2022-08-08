@@ -5,9 +5,15 @@
    margin-top: 5px;
 }
 
-table,
-th,
-tr,
+table {
+   border: solid;
+   border-color: rgb(15, 248, 7);
+}
+th {
+   border: solid;
+   border-color: rgb(15, 248, 7);
+}
+
 td {
    border: solid;
    border-color: rgb(15, 248, 7);
@@ -18,7 +24,7 @@ td {
    text-align: center;
 } */
 .responsive {
-   width: 33%;
+   width: 30%;
    height: auto;
 }
 #respi {
