@@ -8,6 +8,13 @@
 table {
    border: solid;
    border-color: rgb(15, 248, 7);
+   align-items: center;
+}
+
+#indeng {
+   border: solid;
+   border-color: rgb(15, 248, 7);
+   align-content: center;
 }
 th {
    border: solid;
@@ -21,7 +28,7 @@ td {
 
 body {
    text-align: center;
-   width: 98%;
+   width: 97%;
    height: auto;
 }
 .responsive {
