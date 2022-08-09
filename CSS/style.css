@@ -1,3 +1,16 @@
+#t_ftf {
+   width: 100%;
+}
+#link {
+   width: 100%;
+}
+
+ul,
+li {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+}
 #audio {
    height: auto;
    width: 97%;
