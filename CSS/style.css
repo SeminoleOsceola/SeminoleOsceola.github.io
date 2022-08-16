@@ -128,6 +128,11 @@ h2 {
    color: rgb(199, 21, 56);
    font-size: larger;
 }
+#FTF2 {
+   margin: 0 0 0 0;
+   color: blue;
+   font-size: larger;
+}
 
 body {
    background-color: rgb(203, 245, 161);
