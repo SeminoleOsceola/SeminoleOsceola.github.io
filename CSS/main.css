@@ -31,6 +31,8 @@ div {
    width: 97%;
    margin-left: 1px;
    margin-top: 1px;
+   background-color: rgb(218, 51, 51);
+   padding: 4px;
 }
 #topn1 {
    width: 95%;
